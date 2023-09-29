@@ -21,7 +21,7 @@ notes.post("/", (req, res) => {
     const newNote = {
       title,
       text,
-      note_id: uuidv4(),
+      id: uuidv4(),
     };
 
     readAndAppend(newNote, "./db/db.json");
@@ -30,5 +30,9 @@ notes.post("/", (req, res) => {
     res.error("Error in adding note");
   }
 });
+
+// DELETE Route for an existing note
+// api/notes/:id
+notes.delete("/:note_id", (req, res) => {});
 
 module.exports = notes;
