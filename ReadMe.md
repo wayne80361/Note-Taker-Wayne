@@ -52,25 +52,33 @@ After you enter the URL or at localhost on your browser, you will see
 
 1.  a homepage display Wayne's Note Taker
 
+    ![Alt text](Assets/screenshots/Wayne's-note-taker.png)
+
 2.  click on the Get Started in the middle of the page, it will direct you to the note page.
+
+    ![Alt text](Assets/screenshots/get-started.png)
 
 3.  Enter your desired Title where it says "Please Enter Note Title",
 
     and enter your desired notes where it says "Please Enter Note Text".
 
-4.  A floppy disk like icon will appear on the top-right corner of the page,
+4.  A floppy disk like icon will appear on the top-right corner of the page, ![Alt text](Assets/screenshots/floppy.png)
 
     click it to save the note.
 
-5.  Saved note will be displayed with title on the left column.
+5.  Saved notes will be displayed with title on the left column.
 
 6.  Click on the title of the notes will display the whole note on the Note Input area on the right.
 
-7.  Click on the + sign to add new note.
+7.  Click on the + sign ![Alt text](Assets/screenshots/plus-sign.png) to add new note.
 
-8.  Click on the red trash can will delete the relative note on its left.
+8.  Click on the red trash can icon ![Alt text](Assets/screenshots/red-trash-can.png) will delete the relative note on its left.
 
-9.  Click on the top-left "Wayne's Note Taker" will direct you back to the homepage.
+9.  Click on the top-left "Wayne's Note Taker"
+
+    ![Alt text](Assets/screenshots/Wayne's-note-taker.png)
+
+    will direct you back to the homepage.
 
 ## Credits
 
